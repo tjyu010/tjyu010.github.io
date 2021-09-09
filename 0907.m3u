@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 ,粉色情色 1
+http://client.nodomain.vip:80/live.ts?channelId=96&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
+#EXTINF:-1 ,粉色情色 2
+http://client.nodomain.vip:80/live.ts?channelId=97&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
+#EXTINF:-1 ,粉色情色 3
+http://client.nodomain.vip:80/live.ts?channelId=98&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
+#EXTINF:-1 ,粉色情色 4
+http://client.nodomain.vip:80/live.ts?channelId=99&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
+#EXTINF:-1 ,巴尔干情色
+http://client.nodomain.vip:80/live.ts?channelId=1474&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
+#EXTINF:-1 ,DORCEL TV
+http://client.nodomain.vip:80/live.ts?channelId=1513&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
+#EXTINF:-1 ,Mofos
+http://client.nodomain.vip:80/live.ts?channelId=1566&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
+#EXTINF:-1 ,红灯高清
+http://client.nodomain.vip:80/live.ts?channelId=1567&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
 #EXTINF:-1 ,热点
 http://185.236.229.21:9981/play/a03p
 #EXTINF:-1 ,Rouge TV
