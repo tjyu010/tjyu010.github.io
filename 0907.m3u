@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 ,热点
+http://185.236.229.21:9981/play/a03p
+#EXTINF:-1 ,Rouge TV
+https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTINF:-1 ,胭脂电视
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 ,俄罗斯之夜
+http://93.189.224.117:9030/russkayanoch
+#EXTINF:-1 ,Extasy/LeoTV HD
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF:-1 ,NYX 媒体
+https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+#EXTINF:-1 ,金阁楼
+http://82.197.212.210:8000/play/a10y
+#EXTINF:-1 ,Penthouse Quickies
+http://82.197.212.210:8000/play/a110
 #EXTINF:-1 ,BY1
 http://hbox.cdnss.me:80/bestcs/bestcs/2062
 #EXTINF:-1 ,BY2
