@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 ,ОХ-АХ HD
 http://50.7.164.28:8081/1/index.m3u8?wmsAuthSign=1633505163p612i651i361i111S55fb99bd035b85133891281c040d2a26
@@ -63,7 +64,6 @@ http://50.7.164.28:8081/36/index.m3u8?wmsAuthSign=1633506461p612i651i361i111S3e0
 http://50.7.164.28:8081/37/index.m3u8?wmsAuthSign=1633506462p612i651i361i111S5cd446d09b5f7493ee0df4d669f4d812
 #EXTINF:-1 ,FAP TV BBW
 http://50.7.164.28:8081/38/index.m3u8?wmsAuthSign=1633506716p612i651i361i111S122f4b64a2960466a7476df31c7879de
-
 #EXTINF:-1 ,骗子高清
 http://51.15.0.141:88/hustlerhd/index.m3u8
 #EXTINF:-1 ,骗子高清
@@ -80,10 +80,6 @@ http://51.15.0.141:88/redlightHD/mpegts
 http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 #EXTINF:-1 ,Filmon TV 2 (18+)
 http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-#EXTINF:-1 ,金阁楼
-http://82.197.212.210:8000/play/a10y
-#EXTINF:-1 ,Penthouse Quickies
-http://82.197.212.210:8000/play/a110
 #EXTINF:-1 ,超一
 http://185.96.176.139:8080/superone/index.m3u8
 #EXTINF:-1 ,Extasy/LeoTV HD
@@ -92,12 +88,6 @@ http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 #EXTINF:-1 ,胭脂电视
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 ,骗子电视台
-http://185.134.22.131:8080/pedro123/pedro321/6166
-#EXTINF:-1 ,花花公子电视
-http://185.134.22.131:8080/pedro123/pedro321/13617
-#EXTINF:-1 ,BRAZZERS TV Europe
-http://185.134.22.131:8080/pedro123/pedro321/53589
 #EXTINF:-1 ,XXX: Adulte FULL 1 HD
 http://paineliptv8.xyz:2082/389419/845472/21628
 #EXTINF:-1 ,XXX: Adulte FULL 2 HD
