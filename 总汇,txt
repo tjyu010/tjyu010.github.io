@@ -15,8 +15,8 @@ CCTV2,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.
 CCTV2,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
 CCTV3,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
 CCTV4,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
-CCTV5],http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227640/index.m3u8
-CCTV5],http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+CCTV5,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227640/index.m3u8
+CCTV5,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
 CCTV5,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
 CCTV5,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227685/index.m3u8
 CCTV5,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
@@ -41,7 +41,7 @@ CCTV14,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index
 CCTV14,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
 CCTV15,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
 CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-CCTV17],http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
+CCTV17,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
 CCTV17,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
@@ -56,7 +56,6 @@ CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
 CCTV5,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-PP体育,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
@@ -71,7 +70,6 @@ J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 TVB星河台(粤语),http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVB剧场,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=1
 TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
-C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 香港工商银行,http://cdn.hkdtmb.com/hls/76/index.m3u8
 香港电台,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 美国之音卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
@@ -232,22 +230,6 @@ NewTV金牌未标识综艺,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/
 江西陶瓷,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227768/index.m3u8
 上海纪实人文,http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221227674/index.m3u8
 北京冬奥纪实,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
-,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
-东海文娱,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227739/index.m3u8
-东海新闻,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227792/index.m3u8
-仪化有线,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227702/index.m3u8
-宝应新闻综合,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228007/index.m3u8
-宝应生活资讯,http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228039/index.m3u8
-常州公共,http://223.110.245.158/ott.js.chinamobile.com/PLTV/3/224/3221227772/index.m3u8
-常州生活],http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227816/index.m3u8
-沛县新闻综合1080[1920*1080,http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227678/index.m3u8
-沛县生活,http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227611/index.m3u8
-睢宁三农,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227709/index.m3u8
-睢宁生活教育1080[1920*1080,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227701/index.m3u8
-睢宁综合,http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227706/index.m3u8
-睢宁资讯,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227712/index.m3u8
-连云港公共2M,http://223.110.243.145/ott.js.chinamobile.com/PLTV/3/224/3221227819/index.m3u8
-邳州综合,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227576/index.m3u8
 东南卫视,http://39.134.39.39/PLTV/88888888/224/3221226182/index.m3u8
 东方卫视,http://39.134.39.39/PLTV/88888888/224/3221226155/index.m3u8
 北京卫视,http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
@@ -324,7 +306,7 @@ SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 电影48_斗鱼,http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
 电影53_斗鱼,http://dyscdnali1.douyucdn.cn/live/6763930rQ0VfA1mV.flv?uuid=
 每日科幻电影,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625204865
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影轮播",这才是真正的黑帮,http://121.51.249.53/tx。 hls.huya.com/src/1388457186-1388457186-5963378205766189056-2777037828-10057-A-0-1.m3u8
+这才是真正的黑帮,http://121.51.249.53/tx。 hls.huya.com/src/1388457186-1388457186-5963378205766189056-2777037828-10057-A-0-1.m3u8
 黑帮习惯,http://121.51.249.53/tx.hls.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-381
 奇迹系列,http://121.51.24.53/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0.81
 漫威十周年系列,http://3954-out.liveplay.myqcloud.com/live/3954_360126181.flv?bizid=3954&txSecret=61605585d05f9c279f352f67176511ae&txTime=6362
@@ -380,7 +362,7 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 每日科幻电影,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625204865
 追剧少女,http://dl.zhoujie218.top/dl/gdtv2.php?migu/617432318
 旧怀老片,http://dl.zhoujie218.top/dl/gdtv2.php?migu/621640582
-migu/tv-7套武侠剧场,http://dl.zhoujie218.top/dl/gdtv2.php?migu/627198822
+套武侠剧场,http://dl.zhoujie218.top/dl/gdtv2.php?migu/627198822
 爱情公寓,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625681367
 金庸,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625774640
 新片放映厅,http://dl.zhoujie218.top/dl/gdtv2.php?migu/619495952
@@ -1156,7 +1138,7 @@ VOL.2,https://www.lbbf9.com/20191105/G7SwCVsW/index.m3u8
 梅丽莎少女性爱日记,https://d1q0nux61ngu8a.cloudfront.net/20181223/GEkS2Wes/1399kb/hls/index.m3u8
 嬉闲聊,https://d1q0nux61ngu8a.cloudfront.net/20181226/YNMpXDtS/1554kb/hls/index.m3u8
 
-国产成人,#genre#
+国产成人_123,#genre#
 
 网约的帅哥和少妇园漂亮后入.mov,https://video.caomin5168.com/20181211/lOvIdf7u/index.m3u8
 上大三的周末看我酒店打炮口爆吞精.mov,https://video.caomin5168.com/20181211/GLe3NLax/index.m3u8
