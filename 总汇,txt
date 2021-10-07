@@ -23,7 +23,7 @@ CCTV5,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227714/index.
 CCTV5,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
 CCTV6,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
 CCTV7,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
-CCTV8],http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+CCTV8,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
 CCTV8,http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
 CCTV8,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8
 CCTV9,http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227704/index.m3u8
@@ -913,6 +913,7 @@ Strip,p5p://crfccs.kingh888.com:16666/60ab6f630008847b0f7ad31644e78979
 京彩8,p5p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07 
 京粉9,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b 
 京彩10,p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
+
 superone,http://185.96.176.139:8080/superone/index.m3u8
 像壁,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 肛门,http://cdn.adultiptv.net/anal.m3u8
@@ -930,7 +931,6 @@ superone,http://185.96.176.139:8080/superone/index.m3u8
 嗯,http://cdn.adultiptv.net/gay.m3u8
 硬核,http://cdn.adultiptv.net/hardcore.m3u8
 异族,http://cdn.adultiptv.net/interracial.m3u8
-
 骗子高清,http://51.15.0.141:88/hustlerhd/index.m3u8
 骗子高清,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 骗子高清,http://51.15.0.141:88/hustlerhd/mpegts
@@ -939,7 +939,6 @@ superone,http://185.96.176.139:8080/superone/index.m3u8
 红灯高清,http://51.15.0.141:88/redlightHD/mpegts
 Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-超一,http://185.96.176.139:8080/superone/index.m3u8
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 胭脂电视,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
@@ -1107,7 +1106,6 @@ XY Plus 高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6288/index.m3u8
 Erox HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6296/index.m3u8
 MvH 难,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6297/index.m3u8
 超一高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6298/index.m3u8
-
 PPV,http://81.97.154.42:8001/1:0:1:3E30:2EE0:13E:820000:0:0:0:
 Zest TV,http://81.97.154.42:8001/1:0:1:db3:2d50:13e:820000:0:0:0:
 XXL,http://81.97.154.42:8001/1:0:1:1d4:26ac:13f:820000:0:0:0:
@@ -1119,48 +1117,125 @@ Hustler HD,http://81.97.154.42:8001/1:0:19:4223:2f44:13E:820000:0:0:0:
 Hustler HD,http://81.97.154.42:8001/1:0:19:4220:2f44:13E:820000:0:0:0:
 Brazzers TV,http://81.97.154.42:8001/1:0:1:1D25:2FA8:13E:820000:0:0:0:
 Vivid Touch,http://81.97.154.42:8001/1:0:1:1CBB:1CE8:71:820000:0:0:0:
-Vivid红色高清,http://81.97.154.42:8001/1:0:1:4267:3db8:13E:820000:0:0:0:
 Pink电视,http://81.97.154.42:8001/1:0:1:4209:3DB8:13E:820000:0:0:0:
-PassionXXX,http://81.97.154.42:8001/1:0:1:420A:3DB8:13E:820000:0:0:0:
-Penthouse HD,http://81.97.154.42:8001/1:0:16:211:384:13E:820000:0:0:0:
-Sexst6senso TV,http://81.97.154.42:8001/1:0:1:4208:3DB8:13E:820000:0:0:0:
-Prive,http://81.97.154.42:8001/1:0:1:4206:3DB8:13E:820000:0:0:0:
-SCT,http://81.97.154.42:8001/1:0:1:421e:3db8:13E:820000:0:0:0:
-Dusk TV,http://81.97.154.42:8001/1:0:1:35C1:1388:13E:820000:0:0:0:
-Passione TV,http://81.97.154.42:8001/1:0:1:35C8:1388:13E:820000:0:0:0:
-ОХ-АХ HD,http://50.7.164.28:8081/1/index.m3u8?wmsAuthSign=1633505163p612i651i361i111S55fb99bd035b85133891281c040d2a26
-Brazzers TV,http://50.7.164.28:8081/2/index.m3u8?wmsAuthSign=1633505227p612i651i361i111S1d1da77f980ac84517ffca7395f6e97a
-Brazzers TV,http://50.7.164.28:8081/46/index.m3u8?wmsAuthSign=1633505267p612i651i361i111S6de21a1bdf82c9e6089a452eeacc9bb8
-SL HOT HD2 ,http://50.7.164.28:8081/58/index.m3u8?wmsAuthSign=1633505300p612i651i361i111S436493a498602a7e1a83383a6ea8985e
-Dusk смотреть,http://50.7.164.28:8081/53/index.m3u8?wmsAuthSign=1633505485p612i651i361i111S3bc1c523c26fce68dbdac217c439e0c2
-KinoXXX,http://50.7.164.28:8081/49/index.m3u8?wmsAuthSign=1633505487p612i651i361i111Sc0546aa672efa3cc7fb8247b098948ac
-SuperOne HD,http://50.7.164.28:8081/45/index.m3u8?wmsAuthSign=1633505488p612i651i361i111S9631872194827564f837885854772a47
-PlaybVivid Red HDoy TV,http://50.7.164.28:8081/6/index.m3u8?wmsAuthSign=1633505705p612i651i361i111S050198614f48af047c436fe68c039fd4
-Vivid Red HD,http://50.7.164.28:8081/7/index.m3u8?wmsAuthSign=1633505706p612i651i361i111Sae5c6f6dfcedc3e4ba461587667c23f3
-Erox HD,http://50.7.164.28:8081/9/index.m3u8?wmsAuthSign=1633505708p612i651i361i111S2714574cab777ec03c531a4754dac837
-Eroxxx HD,http://50.7.164.28:8081/47/index.m3u8?wmsAuthSign=1633505709p612i651i361i111S4ad39386b2608eb39ac3b2567d58336d
-Hustler HD,http://50.7.164.28:8081/10/index.m3u8?wmsAuthSign=1633505710p612i651i361i111Se6527e73ab8d66e51efc67d16b9f39e3
-Private TV ,http://50.7.164.28:8081/11/index.m3u8?wmsAuthSign=1633505712p612i651i361i111S8dedbb33f54f3dbd5d0d746a61771970
-dlight HD,http://50.7.164.28:8081/12/index.m3u8?wmsAuthSign=1633505961p612i651i361i111Scb4bedddb94f3ea59fe5e7393d47da9b
-Jasmin TV,http://50.7.164.28:8081/13/index.m3u8?wmsAuthSign=1633505963p612i651i361i111Sd20e36a6961960666c635fa5ce6d707b
-Babes TV смотреть,http://50.7.164.28:8081/14/index.m3u8?wmsAuthSign=1633505964p612i651i361i111S3b52e841293135604ffa973cb05a618d
-Penthouse Gold HD ,http://50.7.164.28:8081/39/index.m3u8?wmsAuthSign=1633505965p612i651i361i111Seaa7a89eec253820cff6d01e1cc55bed
-Penthouse Quickies,http://50.7.164.28:8081/16/index.m3u8?wmsAuthSign=1633505966p612i651i361i111S9ceb49685a1b86b1a0fb19b9f6079afd
-Blue Hustler,hhttp://50.7.164.28:8081/19/index.m3u8?wmsAuthSign=1633505968p612i651i361i111Sbc16cb7f9fd8939e189703548f79b5b7
-Шалун смотреть,http://50.7.164.28:8081/20/index.m3u8?wmsAuthSign=1633506238p612i651i361i111Sc1b09e3b96c7274872257ad27ac64cf8
-Dorcel TV,http://50.7.164.28:8081/21/index.m3u8?wmsAuthSign=1633506239p612i651i361i111S62b75f11317c1c112f2642f2c3df9a3c
-Candy смотреть ,http://50.7.164.28:8081/24/index.m3u8?wmsAuthSign=1633506240p612i651i361i111S199d5d0e96e432faa774d6071b2f88d4
-Extasy HD,http://50.7.164.28:8081/29/index.m3u8?wmsAuthSign=1633506241p612i651i361i111S7dce7682ab0e3f21b894d43d3844ce11
-XXL смотреть,http://50.7.164.28:8081/30/index.m3u8?wmsAuthSign=1633506242p612i651i361i111S38c8e18a06cd4e21f6bf9d50542e1d11
-FAP TV 2,http://50.7.164.28:8081/26/index.m3u8?wmsAuthSign=1633506243p612i651i361i111Sab76ab5fdd9d03109e695c251554561b
-FAP TV 3,http://50.7.164.28:8081/27/index.m3u8?wmsAuthSign=1633506456p612i651i361i111S6dd78e4703b4f203fd2a0538d4af1424
-FAP TV 4,http://50.7.164.28:8081/28/index.m3u8?wmsAuthSign=1633506456p612i651i361i111S7b9a31315926269dc8fa13a77a2c1151
-FAP TV Parody,http://50.7.164.28:8081/32/index.m3u8?wmsAuthSign=1633506458p612i651i361i111S930828344ede19150f9a9c013bb88c91
-FAP TV Compilation,http://50.7.164.28:8081/34/index.m3u8?wmsAuthSign=1633506459p612i651i361i111S8b38d4ac12662aa860ee4d44ac50e12b
-FAP TVFAP Anal ,http://50.7.164.28:8081/35/index.m3u8?wmsAuthSign=1633506460p612i651i361i111S0e80d854badb1d539ee7114a76657b6c
-FAP TV Teens ,http://50.7.164.28:8081/36/index.m3u8?wmsAuthSign=1633506461p612i651i361i111S3e0aa30769765ac52c2c0ddf3560aadb
-FAP TV Lesbian ,http://50.7.164.28:8081/37/index.m3u8?wmsAuthSign=1633506462p612i651i361i111S5cd446d09b5f7493ee0df4d669f4d812
-FAP TV BBW,http://50.7.164.28:8081/38/index.m3u8?wmsAuthSign=1633506716p612i651i361i111S122f4b64a2960466a7476df31c7879de
+1,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88252
+2,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88253
+3,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88254
+4,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88255
+5,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88256
+6,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88257
+7,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88258
+8,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88259
+9,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88260
+10,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88261
+11,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88262
+12,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88263
+13,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88264
+14,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88265
+15,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88266
+16,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88267
+17,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88268
+18,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88269
+19,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88270
+20,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88271
+21,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88272
+22,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88273
+23,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88274
+24,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88275
+25,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88276
+26,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88277
+27,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88278
+28,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88279
+29,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88280
+30,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88281
+31,http://satlok.xyz:8000/NEZZ18/NEZZ1805/88282
+情色,http://on7.media:8080/aydar/b7p6rzZhEU/262
+女,http://on7.media:8080/aydar/b7p6rzZhEU/263
+FETISH,http://on7.media:8080/aydar/b7p6rzZhEU/264
+EBONY,http://on7.media:8080/aydar/b7p6rzZhEU/276
+4,http://on7.media:8080/aydar/b7p6rzZhEU/277
+2,http://on7.media:8080/aydar/b7p6rzZhEU/246
+3,http://on7.media:8080/aydar/b7p6rzZhEU/247
+肛门,http://on7.media:8080/aydar/b7p6rzZhEU/249
+ASSIAN,http://on7.media:8080/aydar/b7p6rzZhEU/250
+BLACKED,http://on7.media:8080/aydar/b7p6rzZhEU/251
+5,http://on7.media:8080/aydar/b7p6rzZhEU/252
+BBW,http://on7.media:8080/aydar/b7p6rzZhEU/253
+女特工,http://on7.media:8080/aydar/b7p6rzZhEU/254
+GROUP,http://on7.media:8080/aydar/b7p6rzZhEU/255
+BIGDIC,http://on7.media:8080/aydar/b7p6rzZhEU/256
+BIGTITS,http://on7.media:8080/aydar/b7p6rzZhEU/257
+口交,http://on7.media:8080/aydar/b7p6rzZhEU/258
+公共代理,http://on7.media:8080/aydar/b7p6rzZhEU/259
+硬核,http://on7.media:8080/aydar/b7p6rzZhEU/260
+CUCKLOD,http://on7.media:8080/aydar/b7p6rzZhEU/261
+熟女,http://on7.media:8080/aydar/b7p6rzZhEU/266
+人妖,http://on7.media:8080/aydar/b7p6rzZhEU/268
+X PLUS EBONY,http://on7.media:8080/aydar/b7p6rzZhEU/274
+FAKETAKSI,http://on7.media:8080/aydar/b7p6rzZhEU/275
+XXX1,http://82.42.140.103:8001/1:0:1:43:1964:13E:820000:0:0:0:
+XXX2,http://82.42.140.103:8001/1:0:1:44:1964:13E:820000:0:0:0:
+私人电视,http://82.42.140.103:8001/1:0:1:4222:3DB8:13E:820000:0:0:0:
+Brazzers TV,http://82.42.140.103:8001/1:0:1:1D25:2FA8:13E:820000:0:0:0:
+粉红O电视,http://82.42.140.103:8001/1:0:1:52E:3D54:13E:820000:0:0:0:
+激情XXX,http://82.42.140.103:8001/1:0:16:52F:3D54:13E:820000:0:0:0:
+Sexst6senso 电视,http://82.42.140.103:8001/1:0:1:52D:3D54:13E:820000:0:0:0:
+私,http://82.42.140.103:8001/1:0:1:52C:3D54:13E:820000:0:0:0:
++18 花花公子电视,http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13410
++18 性感火辣,http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13414
+Penthouse Quickies FHD (18+) 美国,http://mytv.fun:8080/erbil22/fHXlwwRS/13862
+Vivid RED FHD (18+) 美国,http://mytv.fun:8080/erbil22/fHXlwwRS/13864
+Redlight FHD (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/674061
+EroXXX FHD (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/13866
+黄昏（18 岁以上）,http://mytv.fun:8080/erbil22/fHXlwwRS/19678
+Hustler FHD (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/674060
+骗子（18 岁以上）美国,http://mytv.fun:8080/erbil22/fHXlwwRS/5525
+Maiden van Holland (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/674125
+Brazzers (18 +) 美国,http://mytv.fun:8080/erbil22/fHXlwwRS/13403
+PlayBoy TV HD (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/19674
+粉红情色 1 (18+) EX-YU,http://mytv.fun:8080/erbil22/fHXlwwRS/5521
+粉红情色 2 (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/5520
+粉红情色 3 (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/5519
+粉红情色 4 (18+) EX-YU,http://mytv.fun:8080/erbil22/fHXlwwRS/5518
+粉红情色 5 (18+) EX-YU,http://mytv.fun:8080/erbil22/fHXlwwRS/5517
+粉色情色 6 (18+) EX-YU,http://mytv.fun:8080/erbil22/fHXlwwRS/5516
+粉红情色 8 (18+) EX-YU,http://mytv.fun:8080/erbil22/fHXlwwRS/5514
+色情 1 (18 +),http://mytv.fun:8080/erbil22/fHXlwwRS/5494
+色情 3 (18 +),http://mytv.fun:8080/erbil22/fHXlwwRS/5492
+色情 5（18 岁以上）,http://mytv.fun:8080/erbil22/fHXlwwRS/5490
+色情 8 (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/5487
+色情 9 (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/5486
+色情 10 (18 +),http://mytv.fun:8080/erbil22/fHXlwwRS/5485
+Primafila Hot Club 3 HD (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/5508
+Primafila Hot Club 6 FHD (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/5505
+Primafila Hot Club 7 (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/5504
+Primafila Hot Club 8 FHD (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/5503
+Primafila Hot Club 9 FHD (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/5502
+ButGo (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/19684
+糖果（18 岁以上）,http://mytv.fun:8080/erbil22/fHXlwwRS/19683
+Centoxcento TV (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/19682
+帕西 (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/13402
+Meiden van Holland Hard (18+) NL,http://mytv.fun:8080/erbil22/fHXlwwRS/5524
+Penthouse FHD (18+) 美国,http://mytv.fun:8080/erbil22/fHXlwwRS/5522
+Platinum FHD (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/5513
+私人 (18+) NL,http://mytv.fun:8080/erbil22/fHXlwwRS/5501
+Reality Kings (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/13399
+红灯 (18+) NL,http://mytv.fun:8080/erbil22/fHXlwwRS/5500
+Sext Senso (18+) IT,http://mytv.fun:8080/erbil22/fHXlwwRS/5497
+Sirina 2 (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/5535
+Sirina 3 (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/5534
+快乐 (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/19672
+TGirls (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/13398
+SuperOne HD (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/16347
+辣妹 2 (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/19701
+辣妹 17 (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/19703
+青少年选角 (18 +),http://mytv.fun:8080/erbil22/fHXlwwRS/13400
+阿尔巴 XXX 3,http://mytv.fun:8080/erbil22/fHXlwwRS/666421
+阿尔巴 XXX 4,http://mytv.fun:8080/erbil22/fHXlwwRS/666422
+阿尔巴 XXX 6,http://mytv.fun:8080/erbil22/fHXlwwRS/666424
+Fake Agent HD (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/666425
+假出租车女全高清 (18+),http://mytv.fun:8080/erbil22/fHXlwwRS/666429
+
 
 
 成人动画_123,#genre#
