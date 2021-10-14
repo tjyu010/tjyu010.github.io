@@ -732,7 +732,10 @@ AXN,http://50.7.61.148:30080/Entry/axn
 CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 美亚高清电影台,http://xiaojun.cyou/code/?code=iptv&c=3&id=89
 美亚高清电影台,http://xiaojun.cyou/code/?code=hodiptv&id=246
-北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+乐视_动作电影,http://api.idianshijia.com/gslb/live?stream_id=lsloop_dongwu&type=.m3u8
+乐视_经典电影,http://api.idianshijia.com/gslb/live?stream_id=lsloop_dianying&type=.m3u8
+乐视_喜剧电影,http://api.idianshijia.com/gslb/live?stream_id=lsloop_xiju&type=.m3u8
+每日科幻电影,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/150/index.m3u8?ProgramID=&encrypt=1
 咪咕云上医院,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625703337
 咪咕暑期剧场,http://dl.zhoujie218.top/dl/gdtv2.php?migu/627198692
 黄金剧场,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625155140
