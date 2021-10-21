@@ -819,7 +819,7 @@ SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 斗鱼动漫,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=206858
 国语动漫,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=6449849
 鬼吹灯,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=7701735
-
+漫威影院,http://tc-tct.douyucdn2.cn/dyliveflv3a/6140589r6cJgBAkK.m3u8?wsAuth=c5d5959ae4d555b29905f8ba10287090&token=cpn-androidmpro-0-6140589-8c9f814ba60c86af95e6e35dd6b7478afab9480e3590d5c3&logo=0&expire=0&did=cb1abdf120aeb7ff6875b0b8882d3388&origin=tct&vhost=play4
 
 付费频道1_123,#genre#
 
@@ -851,6 +851,7 @@ AV女王,p5p://45.92.126.18:9906/612a26a3000db406153a775beb670d53
 迪浦天道,p5p://fccs.123178.top:9906/612a231f000b7d44152cbb2ae557040e
 迪浦天道,p5p://45.92.126.18:9906/612a231f000b7d44152cbb2ae557040e
 彩虹E台,p5p://fccs.123178.top:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
+K频道,p5p://fccs.123178.top:9906/60e5c69c0007bf360cfd3979da394ad7
 K频道,p5p://fccs.123178.top:9906/60e5c69c0007bf360cfd3979da394ad7
 潘朵拉玩美,p5p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296
 极限电影台,p5p://fccs.123178.top:9906/60fd2dff000297b000ee4ada2986dc4f
@@ -1009,6 +1010,27 @@ Strip,p5p://crfccs.kingh888.com:16666/60ab6f630008847b0f7ad31644e78979
 京粉9,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b 
 京彩10,p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
 
+[720]Private_HD,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/10
+[1080]Prive_TV,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/11
+[1080]Redlight_HD,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/12
+SCT,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/13
+
+ViVid Red,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/15
+XXL,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/16
+[1080]Redlight,http://82.42.140.103:8001/1:0:1:4224:3DB8:13E:820000:0:0:0:
+[1080]Dorcel TV,http://82.42.140.103:8001/1:0:1:4205:2F44:13E:820000:0:0:0:
+[1080]Hustler HD,http://82.42.140.103:8001/1:0:19:4223:2f44:13E:820000:0:0:0:
+[1080]Hustler HD,http://82.42.140.103:8001/1:0:19:4220:2f44:13E:820000:0:0:0:
+[1080]Vivid Red HD,http://82.42.140.103:8001/1:0:1:4267:3db8:13E:820000:0:0:0:
+Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
+hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
+redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
+redlight hd,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+redlight hd,http://51.15.0.141:88/redlightHD/mpegts
+black hd,http://51.15.0.141:88/blacked_hd/index.m3u8
 Live Cams ,http://cdn.adultiptv.net/livecams.m3u8
 MILF,http://cdn.adultiptv.net/milf.m3u8
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
