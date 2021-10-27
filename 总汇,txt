@@ -220,7 +220,14 @@ SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
 
 港台直播,#genre#
-
+民视,rtmp://59.124.75.138/sat/tv051
+台视,rtmp://59.124.75.138/sat/tv071
+中视,rtmp://59.124.75.138/sat/tv091
+华视,rtmp://59.124.75.138/sat/tv111
+TVBS欢乐,rtmp://59.124.75.138/sat/tv421
+纬来育乐,rtmp://59.124.75.138/sat/tv701
+纬来日本,rtmp://59.124.75.138/sat/tv771
+MOMO综合,rtmp://59.124.75.138/sat/tv761
 民视,http://43.128.9.168/jjtv.php?id=24
 民视,http://50.7.61.147:30080/Entry/ftv
 民视新闻台,https://git.io/JgkAb
