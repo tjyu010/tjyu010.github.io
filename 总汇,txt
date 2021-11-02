@@ -965,9 +965,18 @@ TVB浪姐,http://121.12.115.118/tx.hls.huya.com/src/1199563478721-1199563478721-
 貂妹电影,http://121.12.115.118/tx.hls.huya.com/src/2300495830-2300495830-9880554354434375680-4601115116-10057-A-0-1.m3u8
 
 
-
-
-付费频道1_123,#genre#
+香港付费频道1_123,#genre#
+HOT,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec
+彩虹e台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
+松视1台,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
+松视2台,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
+松视3台,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
+K频道,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9
+潘朵啦玩美台,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
+LOOK TV,rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
+潘朵啦粉红台,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a
+惊艳台,rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c
+香蕉台,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e
 生动高清,p9p://45.86.67.154:9906/5d4c58250004966307891f6aec517474.ts 
 松视1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
 松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
@@ -1515,6 +1524,9 @@ AV女王,p9p://45.92.126.18:9906/612a26a3000db406153a775beb670d53.ts
 极限电影台,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
 松视1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
 松视2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
+
+澳美付费频道1_123,#genre#
+
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
