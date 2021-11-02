@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 ,hustler hd
+http://51.15.0.141:88/hustlerhd/index.m3u8
+#EXTINF:-1 ,hustler hd
+http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,hustler hd
+http://51.15.0.141:88/hustlerhd/mpegts
+#EXTINF:-1 ,redlight hd
+http://51.15.0.141:88/redlightHD/index.m3u8
+#EXTINF:-1 ,redlight hd
+http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,redlight hd
+http://51.15.0.141:88/redlightHD/mpegts
+#EXTINF:-1 ,black hd
+http://51.15.0.141:88/blacked_hd/index.m3u8
+#EXTINF:-1 ,Filmon TV 2 (18+)
+http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+#EXTINF:-1 ,Filmon TV 4 (18+)
+http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 #EXTINF:-1 ,XXX: Czech Streets (VIP)
 http://xyz.bummerprime.fun:25461/Fusicrack/ALnj8WD0A4/24704
 #EXTINF:-1 ,XXX: Czech Gang Bang (VIP)
