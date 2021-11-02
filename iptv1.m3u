@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 ,HOT
+rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec
+#EXTINF:-1 ,彩虹e台
+rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
+#EXTINF:-1 ,松视1台
+rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
+#EXTINF:-1 ,松视2台
+rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
+#EXTINF:-1 ,松视3台
+rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
+#EXTINF:-1 ,K频道
+rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9
+#EXTINF:-1 ,潘朵啦玩美台
+rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
+#EXTINF:-1 ,LOOK TV
+rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
 #EXTINF:-1 ,hustler hd
 http://51.15.0.141:88/hustlerhd/index.m3u8
 #EXTINF:-1 ,hustler hd
