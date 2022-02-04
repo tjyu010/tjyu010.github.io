@@ -1857,7 +1857,9 @@ SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 演艺台,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
 潘多拉完美,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
 潘多拉粉红,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
+粉红台,rtmp://125.227.196.250:1935/live/PandoraPink
 潘朵拉玩美,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
+完美台,rtmp://125.227.196.250:1935/live/PandoraPlays
 潘朵啦玩美台,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
 潘朵啦玩美台,p5p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296
 潘朵啦玩美台,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2
@@ -1881,6 +1883,7 @@ SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 潘朵拉粉红台,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
 演出台,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
 惊艳台AmazingTV,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
+惊艳台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
 惊艳台AmazingTV,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
 惊艳台AmazingTV,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
 惊艳台AmazingTV,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
@@ -1935,7 +1938,21 @@ JSTAR极限台,rtmp://45.92.126.226/channel/60fa6d9b8dfe8209677fdb20?sign=X36LZn
 红松,http://api.hstv.me:8080/live/pi2021001/456321/360.m3u8 
 红松,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/360.m3u8 
 红松2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/361.m3u8 
+红松1,http://app.qq54321.com/hls/goat/ibiza.php?t=03&k=1
+红松2,http://app.qq54321.com/hls/goat/ibiza.php?t=01&k=2
+红松3,http://app.qq54321.com/hls/goat/ibiza.php?t=01&k=3
+红松4,http://app.qq54321.com/hls/goat/ibiza.php?t=01&k=4
+红松5,http://app.qq54321.com/hls/goat/ibiza.php?t=01&k=5
+红松6,http://app.qq54321.com/hls/goat/ibiza.php?t=01&k=6
+红松7,http://app.qq54321.com/hls/goat/ibiza.php?t=01&k=7
+红松8,http://app.qq54321.com/hls/goat/ibiza.php?t=01&k=8
+红松9,http://app.qq54321.com/hls/goat/ibiza.php?t=01&k=9
+红松10,http://app.qq54321.com/hls/goat/ibiza.php?t=01&k=10
+红松11,http://app.qq54321.com/hls/goat/ibiza.php?t=01&k=11
+红松12,http://app.qq54321.com/hls/goat/ibiza.php?t=01&k=12
+红松13,http://app.qq54321.com/hls/goat/ibiza.php?t=01&k=13
 
+彩虹E台,rtmp://125.227.196.250:1935/live/Rainbowmovie
 彩虹电影,p5p://45.92.126.18:9906/60ed7489000054d11105e349a7f90727
 彩虹电影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c
 彩虹电影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
@@ -2019,6 +2036,7 @@ Look TV,rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
 看电视，p9p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
 看高清,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
 K频道,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+K频道,rtmp://125.227.196.250:1935/live/Kchannel
 看高清，rtmp://45.88.148.122/channel/60ecdf7f020b42a2f634be25?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
 
 
