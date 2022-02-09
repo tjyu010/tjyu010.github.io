@@ -1806,7 +1806,7 @@ SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 松视二台,rtmp://125.227.196.250:1935/live/PineVision2
 松视三台,rtmp://125.227.196.250:1935/live/PineVision3
 
-
+rtmp://125.227.196.250:1935/live/Rainbowmovie
 彩虹E台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
 彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98
 彩虹E台,p5p://45.92.126.18:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
@@ -2049,6 +2049,7 @@ K频道,rtmp://125.227.196.250:1935/live/Kchannel
 惊艳台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
 惊艳台,rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
 惊艳台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
+
 
 
 PLAYBOY TV,http://efv.me:80/eliana/eliana123/129544
