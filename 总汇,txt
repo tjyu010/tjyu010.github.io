@@ -632,6 +632,9 @@ SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 松视1台,rtmp://125.227.196.250:1935/live/PineVision1
 松视2台,rtmp://125.227.196.250:1935/live/PineVision2
 松视3台,rtmp://125.227.196.250:1935/live/PineVision3
+松视一台,rtmp://125.227.196.250:1935/live/PineVision1
+松视二台,rtmp://125.227.196.250:1935/live/PineVision2
+松视三台,rtmp://125.227.196.250:1935/live/PineVision3
 松視1台,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04
 松視2台,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a
 松視1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
@@ -684,9 +687,7 @@ SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 松视❹台备,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
 松视1台备,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
 松视2台备,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
-松视一台,rtmp://125.227.196.250:1935/live/PineVision1
-松视二台,rtmp://125.227.196.250:1935/live/PineVision2
-松视三台,rtmp://125.227.196.250:1935/live/PineVision3
+
 
 彩虹电影,rtmp://118.163.221.79:1936/live/RainbowE
 彩虹E台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
@@ -707,7 +708,10 @@ SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 
 
 樱桃,rtmp://202.39.64.234:1937/live/947
-
+樱桃1,rtmp://202.39.64.234:1937/live/945
+樱桃2,rtmp://202.39.64.234:1937/live/944
+樱桃3,rtmp://202.39.64.234:1937/live/943
+樱桃4,rtmp://202.39.64.234:1937/live/942
 
 完美台,rtmp://125.227.196.250:1935/live/PandoraPlays
 潘朵啦高画质玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
@@ -778,7 +782,7 @@ SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 演艺台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e
 
 
-JSTAR极限台,rtmp://125.227.196.250:1935/live/JSTAR
+
 JStar极限台,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e
 成人电影台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
 JStar极限台电影频道,rtmp://125.227.196.250:1935/live/JSTAR
@@ -878,7 +882,7 @@ Happy,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
 Happy,p9p://45.86.67.154:9906/60885889000aab420f4c4156421fedd9.ts
 Happy频道,p5p://fccs.123178.top:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
 Happy频道,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
-快乐，rtmp://45.92.126.226/channel/60e5a862c47203d3a673d5ee?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+快乐,rtmp://45.92.126.226/channel/60e5a862c47203d3a673d5ee?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
 
 
 HOT,http://api.hstv.me:8080/live/pi2021001/456321/362.m3u8
@@ -944,7 +948,6 @@ PLAYBOY TV,http://list.starbr.nz:80/nilson1234/1234nilson/20820
 PLAYBOY TV,rtmp://118.163.221.79/channel/61319b62c6f62a25d2da21ba?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
 
 素人,http://api.hstv.me:8080/live/pi2021001/456321/363.m3u8 
-素人,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/363.m3u8 
 NYX MEDIA,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/364.m3u8 
 NYX MEDIA2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/365.m3u8
 NYX MEDIA,http://api.hstv.me:8080/live/pi2021001/456321/364.m3u8 
@@ -1032,8 +1035,23 @@ EXTASY HD,http://213.81.133.133:8080/extasy4k/index.m3u8
 口交，p5p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07 
 亚洲人，p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b 
 肛门，p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd 
+564号[1920*1080],rtmp://202.39.64.234:1935/live/958
+563号[1280*720],rtmp://202.39.64.234:1935/live/957
+566号[1280*720],rtmp://202.39.64.234:1935/live/960
+569号[1280*720],rtmp://202.39.64.234:1935/live/963
+671号[1280*720],rtmp://202.39.64.234:1936/live/964
+675号[1280*720],rtmp://202.39.64.234:1936/live/968
+750号[1280*720],rtmp://202.39.64.234:1937/live/942
+751号[1280*720],rtmp://202.39.64.234:1937/live/943
+752号[1280*720],rtmp://202.39.64.234:1937/live/944
+753号[1280*720],rtmp://202.39.64.234:1937/live/945
+755号[1280*720],rtmp://202.39.64.234:1937/live/947
+774号[1280*720],rtmp://202.39.64.234:1937/live/966
+775号[1280*720],rtmp://202.39.64.234:1937/live/967
+858号[1280*720],rtmp://202.39.64.234:1938/live/949
 
-hls425，http://124.238.99.44:808/hls/425/index.m3u8
+
+hls425,http://124.238.99.44:808/hls/425/index.m3u8
 hls414,http://124.238.99.44:808/hls/414/index.m3u8
 hls411,http://124.238.99.44:808/hls/411/index.m3u8
 BLTV,p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
