@@ -708,6 +708,10 @@ SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 松视❹台备,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
 松视1台备,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
 松视2台备,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
+松視1台,mitv://ns2.hellotvvod.com:9906/256cd356e2e7424aaef03b07170c0a7c
+松視2台,mitv://ns2.hellotvvod.com:9906/7f2d5b6c6f8d46e0a72b45fe6eb31da6
+松視3台,mitv://ns2.hellotvvod.com:9906/b4a2c6e69da44f758254a311cabe3f1d
+
 
 
 彩虹电影,rtmp://118.163.221.79:1936/live/RainbowE
@@ -734,6 +738,8 @@ SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 樱桃3,rtmp://202.39.64.234:1937/live/943
 樱桃4,rtmp://202.39.64.234:1937/live/942
 
+潘朵啦高畫質粉紅台,mitv://ns2.hellotvvod.com:9906/d2c2dcda43a847158de3be53e05f5fba
+潘朵啦高畫質玩美台,mitv://ns2.hellotvvod.com:9906/b499545bfbde4e9a9db204191602309e
 完美台,rtmp://125.227.196.250:1935/live/PandoraPlays
 潘朵啦高画质玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
 潘朵啦高画质台粉色,rtmp://125.227.196.250:1935/live/PandoraPlays
@@ -793,6 +799,7 @@ SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 演出台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e
 潘朵拉粉红台,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
 演出台,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
+驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/c9c7a5ab147f448588866523e8e6c178
 惊艳台AmazingTV,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
 惊艳台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
 惊艳台AmazingTV,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
@@ -833,7 +840,7 @@ JSter极限电影备,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.
 JSTAR极限台,rtmp://45.92.126.226/channel/60fa6d9b8dfe8209677fdb20?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
 极限电影台,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
 
-
+香蕉台,mitv://ns2.hellotvvod.com:9906/a6fef6e74b4f48d0bfe6342ec87575c0
 香蕉台,rtmp://125.227.196.250:1935/live/BananaStation
 香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
 香蕉台,p5p://fccs.123178.top:9906/60fd2ddd000096c200edc58716da3240
@@ -859,7 +866,7 @@ JSTAR极限台,rtmp://45.92.126.226/channel/60fa6d9b8dfe8209677fdb20?sign=X36LZn
 红松,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/360.m3u8 
 
 
-
+彩虹e台,mitv://ns2.hellotvvod.com:9906/5ec7ebdf20d3435986ee50b5e67209ba
 彩虹E台,rtmp://125.227.196.250:1935/live/Rainbowmovie
 彩虹电影,p5p://45.92.126.18:9906/60ed7489000054d11105e349a7f90727
 彩虹电影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c
@@ -877,7 +884,7 @@ JSTAR极限台,rtmp://45.92.126.226/channel/60fa6d9b8dfe8209677fdb20?sign=X36LZn
 彩虹电影备,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
 彩虹电影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
 彩虹电影台,rtmp://202.39.64.233/channel/60ed7124020b42a2f634bfe5?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
-
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/5846f10a1dca4e889226fbb813d269af
 
 香蕉台,rtmp://125.227.196.250:1935/live/BananaStation
 香蕉台,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
@@ -905,7 +912,7 @@ Happy频道,p5p://fccs.123178.top:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
 Happy频道,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
 快乐,rtmp://45.92.126.226/channel/60e5a862c47203d3a673d5ee?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
 
-
+Hot,mitv://ns2.hellotvvod.com:9906/e97014fbd6f74d2f97777c213d6392fa
 HOT,http://api.hstv.me:8080/live/pi2021001/456321/362.m3u8
 HOTH,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 HOT频道,p5p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
@@ -921,7 +928,7 @@ HOT,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/362.m3u8
 热,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
 热,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
 
-
+Look TV,mitv://ns2.hellotvvod.com:9906/2c4f0eccccec4dfd8685055ee9f8e2a8
 LookTV,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
 LookTV,p5p://fccs.123178.top:9906/60ed753e0003e9cf1108a73c5ad48fc9
 LookTV,p3p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771
@@ -967,7 +974,23 @@ PLAYBOY,mitv://ns2.hellotvvod.com:9906/0f556fcf0fe14d5cb86755ec642ced69
 PLAYBOY TV,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/856558
 PLAYBOY TV,http://list.starbr.nz:80/nilson1234/1234nilson/20820
 PLAYBOY TV,rtmp://118.163.221.79/channel/61319b62c6f62a25d2da21ba?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+Happy,mitv://ns2.hellotvvod.com:9906/1269c71356f54b919d69c2f54f635a89
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/5a627ba45e9542df8ec11d690d111ad0
 
+
+彩虹e台,p2p://860969650:9906/5ec7ebdf20d3435986ee50b5e67209ba
+彩虹電影台,p2p://860969650:9906/5846f10a1dca4e889226fbb813d269af
+Look TV,p2p://860969650:9906/2c4f0eccccec4dfd8685055ee9f8e2a8
+香蕉台,p2p://860969650:9906/a6fef6e74b4f48d0bfe6342ec87575c0
+驚豔成人電影台,p2p://860969650:9906/c9c7a5ab147f448588866523e8e6c178
+潘朵啦高畫質粉紅台,p2p://860969650:9906/d2c2dcda43a847158de3be53e05f5fba
+潘朵啦高畫質玩美台,p2p://860969650:9906/b499545bfbde4e9a9db204191602309e
+松視1台,p2p://860969650:9906/256cd356e2e7424aaef03b07170c0a7c
+松視2台,p2p://860969650:9906/7f2d5b6c6f8d46e0a72b45fe6eb31da6
+松視3台,p2p://860969650:9906/b4a2c6e69da44f758254a311cabe3f1d
+Hot,p2p://860969650:9906/e97014fbd6f74d2f97777c213d6392fa
+Happy,p2p://860969650:9906/1269c71356f54b919d69c2f54f635a89
+PLAYBOY,p2p://860969650:9906/5a627ba45e9542df8ec11d690d111ad0
 素人,http://api.hstv.me:8080/live/pi2021001/456321/363.m3u8 
 NYX MEDIA,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/364.m3u8 
 NYX MEDIA2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/365.m3u8
