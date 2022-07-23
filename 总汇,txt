@@ -126,6 +126,8 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+
+
 电影轮播,#genre#
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 欧美大片,http://epg.112114.xyz/douyu/2793084
@@ -135,13 +137,9 @@ Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 欧美电影,http://117.148.179.134/PLTV/88888888/224/3221231621/index.m3u8
 欧美电影,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
 欧美电影,https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-欧美动感DJ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
-欧美动感歌曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgianW4gUoj9-Aaw.mp4
-欧美动感歌曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
 欧美影院,http://sd.jilu8.cn/3221226345/index.m3u8
 欧美影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=no
 欧美影院,http://39.136.48.4:8089/PLTV/88888888/224/3221226345/index.m3u8
-欧洲环游,http://42.56.91.136:80/live-bvc/285487/live_68057278_4570624.m3u8
 神乐影片,http://epg.112114.xyz/douyu/122402
 神乐影院,http://epg.112114.xyz/douyu/85894
 试胆大会,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231672/index.m3u8
