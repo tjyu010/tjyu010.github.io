@@ -129,6 +129,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
 
 电影轮播,#genre#
+顶级欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 欧美大片,http://epg.112114.xyz/douyu/2793084
 欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -153,8 +154,6 @@ Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 林正英,http://epg.112114.xyz/douyu/7356023
 动作电影,http://epg.112114.xyz/douyu/1504768
 动作电影,http://39.134.66.2/PLTV/88888888/224/3221225555/index.m3u8
-动作电影,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/dongzuody/.m3u8
-动作电影,http://[2409:8087:5c00:10:5::8a]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225703/index.m3u8
 动作电影,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=no
 动作电影,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/1.m3u8
 海看大片,http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000407/index.m3u8
@@ -198,37 +197,21 @@ Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 香港电影12,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 香港电影13,http://117.148.179.134/PLTV/88888888/224/3221231742/index.m3u8
 香港电影14,http://117.148.179.134/PLTV/88888888/224/3221231709/index.m3u8
-CBN每日影院,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/mryy_4000.m3u8
 科幻5分钟,http://txtest-xp2p.p2p.huya.com/src/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1.xs
 科幻电影,http://epg.112114.xyz/douyu/9651304
 科幻系列,http://epg.112114.xyz/douyu/8107217
-动作片,http://epg.112114.xyz/huya/11602041
 纬来电影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
-天映频道,http://50.7.220.74:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703
 龙华经典,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-星空世界,http://59.125.101.187:10758/playlist.m3u8
-明星电影,http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
-成龙系列,http://106.53.212.251/daili/yy.php?id=1354888751
 HBO 家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-HBO 签名,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 动画,http://50.7.220.74:8278/nippontv_japan/playlist.m3u8?tid=m02000000000018410979&ct=17961&tsum=ffa3078fcab317cc03360e4c7c20125c
 好莱坞电影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
-东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 AXN,http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157542
-卫视电影,http://60.251.59.180:8523/http/60.251.39.91:8081/hls/62/804/ch07.m3u8
-纬来电影,http://60.251.59.180:8537/http/60.251.39.91:8081/hls/69/811/ch35.m3u8
-好莱坞电影,http://60.251.59.180:8536/http/60.251.39.91:8081/hls/74/816/ch55.m3u8
-龙华电影,http://60.251.59.180:8538/http/60.251.39.91:8066/hls/210/10014/cstv14.m3u8
-HBO,http://59.125.101.187:10757/.m3u8
-龙华电影,http://220.134.196.147:9558/http/116.50.42.18:8066/hls/210/10014/cstv14.m3u8
 TVN电影,http://210.210.155.35/dr9445/h/h21/index.m3u8
 TVN电影,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 K+,http://210.210.155.35/uq2663/h/h08/index.m3u8
@@ -237,9 +220,6 @@ K+,http://210.210.155.35/uq2663/h/h08/index.m3u8
 AXN,http://203.77.246.50:5000/udp/239.1.2.234:5000
 CCM,http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 CCM,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-HBO,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/15.m3u8
-Cinemax,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/16.m3u8
-AXN,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/62.m3u8
 &Flix,http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/69286
 CCTV6,P2p://ns2.hellotvvod.com:9906/0f2e6de734154892a391395f2b35146d.ts
 天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
