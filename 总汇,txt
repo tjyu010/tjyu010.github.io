@@ -131,21 +131,17 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 电影轮播,#genre#
 顶级欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-欧美大片,http://epg.112114.xyz/douyu/2793084
-欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-欧美大片2,http://117.148.179.163/PLTV/88888888/224/3221231565/index.m3u8
-欧美电影,http://39.134.66.2/PLTV/88888888/224/3221225521/index.m3u8
-欧美电影,http://117.148.179.134/PLTV/88888888/224/3221231621/index.m3u8
-欧美电影,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
-欧美电影,https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-欧美影院,http://sd.jilu8.cn/3221226345/index.m3u8
-欧美影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=no
-欧美影院,http://39.136.48.4:8089/PLTV/88888888/224/3221226345/index.m3u8
+龍祥電影台,mitv://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1
+東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
+緯來電影 ,mitv://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
+HBO HD,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
+東森洋片,mitv://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93
+AXN,mitv://fccs.word-tv.com:9906/6258d52d000490df11aad5dfc8e0641c
+好萊塢電影,mitv://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af
 神乐影片,http://epg.112114.xyz/douyu/122402
 神乐影院,http://epg.112114.xyz/douyu/85894
 试胆大会,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231672/index.m3u8
-奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
+
 漫威影片,http://epg.112114.xyz/douyu/6140589
 林正英,http://epg.112114.xyz/huya/11342421
 林正英,http://mmitv.top/pltv/yy.php?id=1351505899
@@ -291,7 +287,19 @@ JStar極限台電影頻道,mitv://45.92.126.18:9906/6260e061000b04ae172397987c1e
 松視3台,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
 Hot,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
 Happy,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7
-#__#
+松视1,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
+松视2,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
+松视3,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
+香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
+彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
+彩虹电影,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
+潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
+HOT,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
+Happy,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
+JStar极限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
+惊艳电影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce
 彩虹e台,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
 彩虹電影台,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
 K 頻道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
