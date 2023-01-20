@@ -1,146 +1,125 @@
 央视直播,#genre#
 
-CCTV1,http://111.13.42.235/TVOD/88888888/224/3221226346/1.m3u8
-CCTV2,http://111.13.42.235/TVOD/88888888/224/3221226472/1.m3u8
-CCTV3,http://111.13.42.6/TVOD/88888888/224/3221226471/1.m3u8
-CCTV4,http://111.13.42.230/TVOD/88888888/224/3221226470/1.m3u8
-CCTV5,http://111.13.42.236/TVOD/88888888/224/3221226469/1.m3u8
-CCTV5+,http://111.13.42.235/TVOD/88888888/224/3221226349/1.m3u8
-CCTV6,http://111.13.42.238/TVOD/88888888/224/3221226468/1.m3u8
-CCTV7,http://111.13.42.237/TVOD/88888888/224/3221226467/1.m3u8
-CCTV8,http://111.13.42.240/TVOD/88888888/224/3221226485/1.m3u8
-央视9,http://111.13.42.235/TVOD/88888888/224/3221226465/1.m3u8
-CCTV11,http://111.13.42.235/TVOD/88888888/224/3221226463/1.m3u8
-CCTV12,http://111.13.42.6/TVOD/88888888/224/3221226462/1.m3u8
-CCTV13,http://111.13.42.231/TVOD/88888888/224/3221226568/1.m3u8
-央视16,http://111.13.42.238/TVOD/88888888/224/3221226887/1.m3u8
-央视17,http://111.13.42.238/TVOD/88888888/224/3221226459/1.m3u8
-#http://fxhack.f3322.org:8000/udp/239.253.43.20:5146,http://live.cooltv.top/tv/yqdtv.php?id=078
-#http://fxhack.f3322.org:8000/udp/239.253.43.29:5146,http://live.cooltv.top/tv/yqdtv.php?id=096
-#http://fxhack.f3322.org:8000/udp/239.253.43.28:5146,http://live.cooltv.top/tv/yqdtv.php?id=080
-#http://fxhack.f3322.org:8000/udp/239.253.43.26:5146,http://live.cooltv.top/tv/yqdtv.php?id=079
-#http://fxhack.f3322.org:8000/udp/239.253.43.23:5146,http://111.20.33.84/TVOD/88888893/224/3221226237/index.m3u8
-发现之旅,http://111.20.33.93/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226235/index.m3u8
-老故事,http://111.20.33.93/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226236/index.m3u8
-中学生,http://39.135.138.58:18890/PLTV/88888910/224/3221225515/index.m3u8?fmt=ts2hls
-中国天气,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/zgqx/1300000/mnf.m3u8
-湖南卫视,http://111.13.42.235/TVOD/88888888/224/3221226509/1.m3u8
-浙江卫视,http://111.13.42.238/TVOD/88888888/224/3221226504/1.m3u8
-江苏卫视,http://111.13.42.6/TVOD/88888888/224/3221226506/1.m3u8
-北京卫视,http://111.13.42.6/TVOD/88888888/224/3221226441/1.m3u8
-东方卫视,http://111.13.42.232/TVOD/88888888/224/3221226505/1.m3u8
-广东卫视,http://111.13.42.235/TVOD/88888888/224/3221226508/1.m3u8
-深圳卫视,http://111.13.42.230/TVOD/88888888/224/3221226495/1.m3u8
-辽宁卫视,http://111.13.42.235/TVOD/88888888/224/3221226500/1.m3u8
-山东卫视,http://111.13.42.234/TVOD/88888888/224/3221226501/1.m3u8
-天津卫视,http://111.13.42.237/TVOD/88888888/224/3221226502/1.m3u8
-重庆卫视,http://111.13.42.231/TVOD/88888888/224/3221226569/1.m3u8
-东南卫视,http://111.13.42.234/TVOD/88888888/224/3221226496/1.m3u8
-甘肃卫视,http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
-贵州卫视,http://111.13.42.234/TVOD/88888888/224/3221226497/1.m3u8
-河北卫视,http://111.13.42.235/TVOD/88888888/224/3221226507/1.m3u8
-黑龙江卫视,http://111.13.42.235/TVOD/88888888/224/3221226498/1.m3u8
-湖北卫视,http://111.13.42.236/TVOD/88888888/224/3221226503/1.m3u8
-江西卫视,http://111.13.42.238/TVOD/88888888/224/3221226570/1.m3u8
-内蒙古卫视,http://111.13.42.230/TVOD/88888888/224/3221226530/1.m3u8
-宁夏卫视,http://111.13.42.234/TVOD/88888888/224/3221226413/1.m3u8
-山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8
-陕西卫视,http://101.33.26.234/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-新疆卫视,http://203.205.137.156/livehyw5.chinamcache.com/hyw/zb01.m3u8
-大湾区卫视,https://www.nettvpro.live/hls/itouch.php?id=1197
-兵团卫视,http://111.13.42.236/TVOD/88888888/224/3221226541/1.m3u8
-延边卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8
-黄河卫视,http://liveflash.sxrtv.com/live/huanghe.m3u8
-康巴卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226207/index.m3u8
-西藏卫视,http://111.13.42.230/TVOD/88888888/224/3221226428/1.m3u8
-北京IPTV4K,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
-北京IPTV淘BABY,http://111.13.42.6/PLTV/88888888/224/3221226554/1.m3u8
-北京IPTV淘娱乐,http://111.13.42.230/PLTV/88888888/224/3221226551/1.m3u8
-北京IPTV淘电影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
-北京IPTV萌宠TV,http://111.13.42.235/PLTV/88888888/224/3221226555/1.m3u8
-卡酷动画,http://111.13.42.230/PLTV/88888888/224/3221226558/1.m3u8
-北京文艺,http://111.13.42.238/PLTV/88888888/224/3221226440/1.m3u8
-北京科教,http://111.13.42.6/PLTV/88888888/224/3221226559/1.m3u8
-北京影视,http://111.13.42.234/PLTV/88888888/224/3221226486/1.m3u8
-北京财经,http://111.13.42.6/PLTV/88888888/224/3221226560/1.m3u8
-北京生活,http://111.13.42.242/PLTV/88888888/224/3221226561/1.m3u8
-北京青年,http://111.13.42.242/PLTV/88888888/224/3221226562/1.m3u8
-北京新闻,http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8
-北京国际,http://111.13.42.234/PLTV/88888888/224/3221226510/1.m3u8
-动漫秀场,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
-都市剧场,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
-东方财经,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
-哈哈炫动,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
-七彩戏剧,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
-新视觉,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-劲爆体育,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-MAX极速汽车,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
-全纪实,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
-幸福彩,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
-生活时尚,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
-游戏风云,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
-上视新闻频道,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
-第一财经,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
-东方影视,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-五星体育频道,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-上海纪实,http://111.13.42.238/TVOD/88888888/224/3221226571/1.m3u8
-上海都市频道,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
-上视外语频道,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
-中国交通频道,http://111.13.42.229/TVOD/88888888/224/3221226891/1.m3u8
-魅力足球,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-金鹰纪实,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
-茶频道,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
-快乐垂钓,http://111.21.23.37/TVOD/88888893/224/3221226805/index.m3u8
-国际频道,http://124.232.233.16:6610/000000001001/201600020001/index.m3u8?m3u8_level=2&ispcode=3&IASHttpSessionId=OTT
-湖南经视,http://124.232.233.16:6610/000000001001/201600020002/index.m3u8?m3u8_level=2&ispcode=3&IASHttpSessionId=OTT
-湖南都市,http://124.232.233.16:6610/000000001001/201600020003/index.m3u8?m3u8_level=2&ispcode=3&IASHttpSessionId=OTT
-湖南娱乐,http://124.232.233.16:6610/000000001001/201600020004/index.m3u8?m3u8_level=2&ispcode=3&IASHttpSessionId=OTT
-湖南公共,http://124.232.233.16:6610/000000001001/201600020007/index.m3u8?m3u8_level=2&ispcode=3&IASHttpSessionId=OTT
-电视剧,http://124.232.233.16:6610/000000001001/201600020006/index.m3u8?m3u8_level=2&ispcode=3&IASHttpSessionId=OTT
-电影,http://124.232.233.16:6610/000000001001/201600020005/index.m3u8?m3u8_level=2&ispcode=3&IASHttpSessionId=OTT
-靓妆频道,http://39.135.138.58:18890/PLTV/88888910/224/3221225509/index.m3u8?fmt=ts2hls
-财富天下,http://111.20.33.93/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226350/index.m3u8
-嘉佳卡通,https://www.nettvpro.live/hls/itouch.php?id=1187
-广东公共,https://www.nettvpro.live/hls/itouch.php?id=1185
-广东新闻,https://www.nettvpro.live/hls/itouch.php?id=1186
-广东国际,https://www.nettvpro.live/hls/itouch.php?id=1191
-广东影视,https://www.nettvpro.live/hls/itouch.php?id=1199
-广东综艺,https://www.nettvpro.live/hls/itouch.php?id=1198
-经济科教,https://www.nettvpro.live/hls/itouch.php?id=1196
-广东少儿,https://www.nettvpro.live/hls/itouch.php?id=1200
-南方购物,http://fxhack.f3322.org:8000/udp/239.77.0.19:5146
-岭南戏曲,http://fxhack.f3322.org:8000/udp/239.77.0.16:5146
-现代教育,http://fxhack.f3322.org:8000/udp/239.77.0.18:5146
-广东移动,https://www.nettvpro.live/hls/itouch.php?id=2463
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-揭阳综合,http://fxhack.f3322.org:8000/udp/239.77.0.229:5146
-揭阳生活,http://fxhack.f3322.org:8000/udp/239.77.0.251:5146
-汕头综合,http://fxhack.f3322.org:8000/udp/239.77.1.130:5146
-中国教育1台,http://39.135.138.58:18890/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
-中国教育3台,http://111.20.33.93/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226226/index.m3u8
-中国教育4台,http://111.13.42.235/TVOD/88888888/224/3221226577/1.m3u8
-CHC高清电影,http://111.20.33.85/TVOD/88888893/224/3221226463/index.m3u8
-CHC动作电影,http://111.21.23.50/TVOD/88888893/224/3221226465/index.m3u8
-CHC家庭电影,http://111.20.33.80/TVOD/88888893/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://nettvpro.live/uploads/18/1-1Q12321004YL.jpg" group-title="🇭🇰🇲🇴🇹🇼| Kênh Hong Kong -澳门-Đài贷款》，凤凰香港频道,http://jyjxy.7766.org:808/hls/34/index.m3u8
-TVB翡翠台,http://jyjxy.7766.org:808/hls/36/index.m3u8
-TVB 明珠,http://jyjxy.7766.org:808/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="TVBJadeMalaysia.my" tvg-logo="https://i.ibb.co/h1Z7s0f/image.png" group-title="🇭🇰🇲🇴🇹🇼| Kênh Hong Kong -澳门台贷》，TVB翡翠东南亚,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20653
-TVB 经典,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21061
-TVB 星河,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20114
-凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-#EXTINF:-1 tvg-id="NowDirect.hk" tvg-logo="https://nettvpro.live/uploads/18/1-1PG11I415a1.jpg" group-title="🇭🇰🇲🇴🇹🇼| Kênh港澳台贷款”，现直通,http://livetv.dnsfor.me/channel.3.m3u8
-Now News,http://livetv.dnsfor.me/channel.4.m3u8
-Now Business News,http://livetv.dnsfor.me/channel.8.m3u8
-香港国际商业频道,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
-i-Cable Finance,https://api.leonardpark.dev/live/icable/108
-有线新闻,https://api.leonardpark.dev/live/icable/109
-i-Cable Live,https://api.leonardpark.dev/live/icable/110
-澳门亚洲卫星电视,http://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-CTI ASIA,http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
-TVBS ASIA,http://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
-民视,http://seb.sason.top/ptv/ftv.php?id=ms
-原住民频道,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+超级综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8
+CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+CCTV7,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
+CCCTV9,http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+CCTV10,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
+CCTV11,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+CCTV12,http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225630/index.m3u8
+CCTV8,http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+CCTV6,http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV3,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV8,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+CCTV10,http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV12,http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV14,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+CCTV14,http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
+CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
+CCTV7,http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
+CGTN d,http://39.134.115.163:8080/PLTV/88888910/224/3221225645/index.m3u8
+CCTV9,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
+CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV6,http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+哒哒赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
+纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+武打世界,http://39.134.115.163:8080/PLTV/88888910/224/3221225656/index.m3u8
+东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
+中国功夫,http://39.134.115.163:8080/PLTV/88888910/224/3221225660/index.m3u8
+CETV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225661/index.m3u8
+云南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
+优漫卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225665/index.m3u8
+优购物,http://39.134.115.163:8080/PLTV/88888910/224/3221225666/index.m3u8
+内蒙古卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
+军旅剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225669/index.m3u8
+农业致富,http://39.134.115.163:8080/PLTV/88888910/224/3221225670/index.m3u8
+黑莓动画,http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+北京纪实科,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+卡酷少​​儿,http://39.134.115.163:8080/PLTV/88888910/224/3221225677/index.m3u8
+古装剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
+吉林卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
+黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
+安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
+重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+数控，http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
+数控，http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+炫舞未来,http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
+潮妈辣妈,http://39.134.115.163:8080/PLTV/88888910/224/3221225708/index.m3u8
+精品体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
+精品纪录,http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
+优易购,http://39.134.115.163:8080/PLTV/88888910/224/3221225711/index.m3u8
+103、http://39.134.115.163:8080/PLTV/88888910/224/3221225712/index.m3u8
+家庭影院,http://39.134.115.163:8080/PLTV/88888910/224/3221225713/index.m3u8
+精品大剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
+107、http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
+黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+山东教育卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225719/index.m3u8
+炫动卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
+金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
+海南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+甘肃卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+宁夏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+青海卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+贵州卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+陕西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+四川卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+中国国际电视台,http://39.134.115.163:8080/PLTV/88888910/224/3221225747/index.m3u8
+哒哒赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225749/index.m3u8
+哒哒赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225750/index.m3u8
+CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225751/index.m3u8
+CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225752/index.m3u8
+CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225753/index.m3u8
+CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225754/index.m3u8
+CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225755/index.m3u8
+CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225756/index.m3u8
+军事评论,http://39.134.115.163:8080/PLTV/88888910/224/3221225757/index.m3u8
 
 
 电影轮播,#genre#
@@ -556,6 +535,282 @@ HOT,p9p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
 中字有码2,p9p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2.ts
 
 
+欧美直播_123,#genre#
+
+激情打手枪高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6182/index.m3u8
+Brazzers 欧洲电视台，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/910/index.m3u8
+Brazzers eXXtra，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6181/index.m3u8
+Hustler HD orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9065/index.m3u8
+骗子高清欧洲，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/244/index.m3u8
+蓝色骗子，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/1064/index.m3u8
+阁楼激情高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/1073/index.m3u8
+阁楼黄金高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5011/index.m3u8
+阁楼 Quickies HD，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5013/index.m3u8
+DDF网络，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6194/index.m3u8
+DDF 巨乳,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6193/index.m3u8
+顽皮的美国，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6237/index.m3u8
+Русская Ночь,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/147/index.m3u8
+Нюарт 电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2057/index.m3u8
+Шалун,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/922/index.m3u8
+花花公子，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/527/index.m3u8
+Sexto Senso，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/875/index.m3u8
+阁楼 Quickies 1300k，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5012/index.m3u8
+糖果，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/923/index.m3u8
+法国情人,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2160/index.m3u8
+红光高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/242/index.m3u8
+生动的红色高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2162/index.m3u8
+Eroxxx 高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5015/index.m3u8
+XXL,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5009/index.m3u8
+激情 XXX，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/878/index.m3u8
+O-la-la，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2161/index.m3u8
+Extasy 4K，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5014/index.m3u8
+私人电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/243/index.m3u8
+勉强合法，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/871/index.m3u8
+Exxxotica 高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2397/index.m3u8
+Dorcel 电视高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/245/index.m3u8
+成人时间，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6166/index.m3u8
+肛门红电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6167/index.m3u8
+解析高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6168/index.m3u8
+AST 电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6169/index.m3u8
+AST 电视 2，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6170/index.m3u8
+A3比基尼，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6165/index.m3u8
+美女电视高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6172/index.m3u8
+爆炸兄弟高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6173/index.m3u8
+砰！，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6174/index.m3u8
+大屁股成人电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6175/index.m3u8
+大屌红电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6176/index.m3u8
+巨乳成人电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6177/index.m3u8
+黑化高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6178/index.m3u8
+金发成人电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6179/index.m3u8
+口交红色电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6180/index.m3u8
+布鲁内特成人电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6183/index.m3u8
+樱桃皮条客，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6185/index.m3u8
+俱乐部 17，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6186/index.m3u8
+Русская ночь orig，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9344/index.m3u8
+汇编成人电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6187/index.m3u8
+戴绿帽子的红色电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6188/index.m3u8
+暨大声，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6189/index.m3u8
+Cum4k，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6190/index.m3u8
+cento x cento，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6184/index.m3u8
+色情明星的一天，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6192/index.m3u8
+数字欲望高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6195/index.m3u8
+数字游乐场高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6196/index.m3u8
+Dorcel 俱乐部，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6197/index.m3u8
+黄昏，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6198/index.m3u8
+邪恶天使HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6199/index.m3u8
+进化的战斗，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6200/index.m3u8
+极品高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6201/index.m3u8
+假出租车高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6202/index.m3u8
+Fap 电视 2，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6203/index.m3u8
+Fap 电视 3，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6204/index.m3u8
+Fap 电视肛门，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6206/index.m3u8
+Fap 电视 BBW，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6207/index.m3u8
+Fap 电视合辑，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6208/index.m3u8
+Fap 电视女同性恋，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6209/index.m3u8
+Fap 电视模仿，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6210/index.m3u8
+Fap 电视青少年，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6211/index.m3u8
+FemJoy，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6212/index.m3u8
+恋物癖红色电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6213/index.m3u8
+钢棒成人电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6214/index.m3u8
+同性恋成人电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6215/index.m3u8
+得到了 MYLF，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6216/index.m3u8
+硬核手游，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6217/index.m3u8
+硬X,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6218/index.m3u8
+铁杆红卫视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6219/index.m3u8
+Hitzefrei 高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6220/index.m3u8
+打洞了，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6221/index.m3u8
+热门和卑鄙，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6222/index.m3u8
+帅哥他妈的，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6223/index.m3u8
+异族红色电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6224/index.m3u8
+日本HDV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6225/index.m3u8
+拉丁红色电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6226/index.m3u8
+女同性恋，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6227/index.m3u8
+女同性恋红色电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6228/index.m3u8
+致命铁杆，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6229/index.m3u8
+小亚洲人高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6230/index.m3u8
+直播成人电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6231/index.m3u8
+色欲影院，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6232/index.m3u8
+MetArt 高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6233/index.m3u8
+摩洛伊斯兰解放阵线红色电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6234/index.m3u8
+鸡巴怪兽，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6235/index.m3u8
+MYLF 电视高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6236/index.m3u8
+青少年电视高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6238/index.m3u8
+牛斧高清,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6239/index.m3u8
+粉红色色情 3，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6240/index.m3u8
+粉红色色情 4，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6241/index.m3u8
+花花公子加，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6242/index.m3u8
+色情明星红色电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6243/index.m3u8
+POV 成人电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6244/index.m3u8
+私人高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6245/index.m3u8
+公共代理，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6246/index.m3u8
+现实之王高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6247/index.m3u8
+RK Prime，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6248/index.m3u8
+RK 电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6249/index.m3u8
+粗糙的成人电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6250/index.m3u8
+俄罗斯成人电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6251/index.m3u8
+与穆斯林发生性关系，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6252/index.m3u8
+性艺术，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6253/index.m3u8
+六分音符，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6254/index.m3u8
+SINematica,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6255/index.m3u8
+少年红卫视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6256/index.m3u8
+三人组红色电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6257/index.m3u8
+Tiny4K，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6258/index.m3u8
+跨天使，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6259/index.m3u8
+真正的业余爱好者，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6260/index.m3u8
+图希高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6261/index.m3u8
+TushyRAW，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6262/index.m3u8
+访问-X TV，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6263/index.m3u8
+生动的欧洲电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6264/index.m3u8
+泼妇高清,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6265/index.m3u8
+我们住在一起，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6266/index.m3u8
+白盒子，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6267/index.m3u8
+邪恶，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6268/index.m3u8
+扩展电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6269/index.m3u8
+巴尔干色情，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6270/index.m3u8
+班格兹，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6271/index.m3u8
+伊曼纽尔高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6272/index.m3u8
+至尊，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6273/index.m3u8
+快男孩，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6274/index.m3u8
+热，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6275/index.m3u8
+HOT XXL 高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6276/index.m3u8
+热的乐趣，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6277/index.m3u8
+女同性恋事件，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6278/index.m3u8
+老朋友，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6279/index.m3u8
+洛杉矶花花公子，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6280/index.m3u8
+红色 XXX，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6281/index.m3u8
+性感火辣，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6282/index.m3u8
+禁忌，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6283/index.m3u8
+金星，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6284/index.m3u8
+X-MO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6285/index.m3u8
+XY 最大高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6286/index.m3u8
+XY混合高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6287/index.m3u8
+XY加高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6288/index.m3u8
+好色之徒，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6289/index.m3u8
+色情 2，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6290/index.m3u8
+色情 3，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6291/index.m3u8
+色情 4，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6292/index.m3u8
+色情 6，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6293/index.m3u8
+色情 7，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6294/index.m3u8
+色情 8，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6295/index.m3u8
+Erox 高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6296/index.m3u8
+MvH 硬，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6297/index.m3u8
+SuperOne 高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6298/index.m3u8
+Dorcel高清原图，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9064/index.m3u8
+Redlight高清原图，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9066/index.m3u8
+激情 XXX 原创，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9067/index.m3u8
+O-La-La 原创，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9068/index.m3u8
+XXL原图，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9345/index.m3u8
+EXXXOTICA 高清原图，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9346/index.m3u8
+ОХ-АХ HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11068/index.m3u8
+KinoXXX，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11052/index.m3u8
+极速高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11051/index.m3u8
+VF 卡通 18 岁以上，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11117/index.m3u8
+阿尔巴 1 高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12105/index.m3u8
+阿尔巴 1，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12106/index.m3u8
+阿尔巴 2 高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12107/index.m3u8
+阿尔巴 2，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12108/index.m3u8
+阿尔巴 3，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12109/index.m3u8
+阿尔巴 4，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12110/index.m3u8
+阿尔巴 5，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12111/index.m3u8
+纯宝贝，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12112/index.m3u8
+BRAZZERS 电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12113/index.m3u8
+邦乌，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12114/index.m3u8
+XY 加 1，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12115/index.m3u8
+XY 加 2，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12116/index.m3u8
+XY 加 6，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12117/index.m3u8
+XY 加 12，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12118/index.m3u8
+XY 加 24，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12119/index.m3u8
+激情 XXX，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12120/index.m3u8
+超一高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12121/index.m3u8
+X1电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12122/index.m3u8
+LEO 电视 FHD，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12123/index.m3u8
+法国情人，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12124/index.m3u8
+Meiden Van Holland，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12125/index.m3u8
+EROCOM 电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12128/index.m3u8
+黄昏电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12129/index.m3u8
+X加摩洛伊斯兰解放阵线高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12130/index.m3u8
+DORCEL 电视 FHD，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12131/index.m3u8
+DORCEL XXX 电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12132/index.m3u8
+金星高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12133/index.m3u8
+免费 X 电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12134/index.m3u8
+花花公子电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12135/index.m3u8
+帕西电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12136/index.m3u8
+VERAPORN 4K，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12137/index.m3u8
+VERAPORN 4K 2，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12138/index.m3u8
+VERAPORN 青少年，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12139/index.m3u8
+VERAPORN 青少年 2，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12140/index.m3u8
+VERAPORN 群交，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12141/index.m3u8
+VERAPORN 集团性爱 2，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12142/index.m3u8
+VERAPORN 肛门，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12143/index.m3u8
+VERAPORN 脚，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12144/index.m3u8
+VERAPORN 大山雀，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12145/index.m3u8
+粉红色情色 1，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12146/index.m3u8
+粉红情色 2，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12147/index.m3u8
+粉红色情色 3，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12148/index.m3u8
+粉红色情色 4，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12149/index.m3u8
+粉红情色 5，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12150/index.m3u8
+粉红色情色 6，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12151/index.m3u8
+粉红色情色 7，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12152/index.m3u8
+粉红色情色 8，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12153/index.m3u8
+TURKCE ALTAZILI YENI,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12154/index.m3u8
+TURKCE ALTAZILI YENI 1,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12155/index.m3u8
+TURKCE ALTAZILI YENI 2，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12156/index.m3u8
+TURKCE ALTAZILI YENI 3，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12157/index.m3u8
+TURKCE ALTAZILI YENI 4，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12158/index.m3u8
+SL 色情高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12160/index.m3u8
+SL HOT 1 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12161/index.m3u8
+SL HOT 2 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12162/index.m3u8
+SL HOT 3 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12163/index.m3u8
+SL HOT 4 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12164/index.m3u8
+SL HOT 5 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12165/index.m3u8
+SL HOT 6 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12166/index.m3u8
+SL HOT 7 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12167/index.m3u8
+SL HOT 8 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12168/index.m3u8
+SL HOT 9 高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12169/index.m3u8
+BAG U,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12170/index.m3u8
+XXX异族电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12171/index.m3u8
+拉丁电视台，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12172/index.m3u8
+摩洛伊斯兰解放阵线电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12173/index.m3u8
+色情明星电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12174/index.m3u8
+POV 电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12175/index.m3u8
+粗糙的电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12176/index.m3u8
+俄罗斯电视台，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12177/index.m3u8
+青少年电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12178/index.m3u8
+三人组电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12180/index.m3u8
+BANGBROS 超高清 4K，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12181/index.m3u8
+肮脏的爱好，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12183/index.m3u8
+钢棒饼，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12184/index.m3u8
+HOTWIFE PREMIUM，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12187/index.m3u8
+TUSHY 电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12188/index.m3u8
+洛可电视 7 月 24 日，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12189/index.m3u8
+黑色电视高级版，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12190/index.m3u8
+黑电视精英，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12191/index.m3u8
+寻欢洞之爱 FHD，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12192/index.m3u8
+TRANS PREMIUM，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12193/index.m3u8
+疯狂的性爱派对，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12194/index.m3u8
+同性恋高级版，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12204/index.m3u8
+FAST BOYZ GAY，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12205/index.m3u8
+XXX Love\'s Berry HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/14140/index.m3u8
+YOSSO TV SEXY，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/14176/index.m3u8
+天空高成人高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/15166/index.m3u8
+Kaloopy 高清电视，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/16018/index.m3u8
+自由情色高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/16069/index.m3u8
+Кино 18+ HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18075/index.m3u8
+Кино 18+ 国际，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18076/index.m3u8
+Kinoshka成人高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18060/index.m3u8
+罗马尼亚 4K，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/10049/index.m3u8
+DuckTV 高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18138/index.m3u8
+PROKOPTV XXX 高清，http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19401/index.m3u8
+SKY_HIGH_SEX_VR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19406/index.m3u8
+
+TF5555LWGHLGS2
+V5AAK6MWN34TAR
+6KPA5QMR4XYRDA
+TCEBUGASLX6WHN
+WUC9ADM4Q57C57
+UGUX8XMBZTS6CU
+YNAWFGQVATNUZS
+UPKY3Y8BF6KNX8
 
 
 
